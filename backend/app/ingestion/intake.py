@@ -30,6 +30,7 @@ FOLDER_TO_DOC_TYPE = {
     "admin_docs": "admin",
     "oem_manuals": "oem_manual",
     "incidents": "incident",
+    "work_order": "work_order",
 }
 
 # Minimum characters of extracted text on page 1 before we trust a PDF has a
